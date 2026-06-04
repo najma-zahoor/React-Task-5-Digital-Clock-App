@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+}
+
+.clock-card {
+  text-align: center;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.title {
+  color: orange;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+}
+
+.time {
+  font-size: 50px;
+  font-weight: bold;
+  color:blueviolet;
+
+;
+}
+.ampm {
+  margin-top: 10px;
+  color:blue;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
